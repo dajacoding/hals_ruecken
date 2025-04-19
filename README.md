@@ -1,7 +1,7 @@
-# This is a simulation-software for experiments with societies.
-## Key-features are:
-- different sizes of societies
-- modifiable amounts of subsystems
-- main-focus on indirect reactions
-- randome and dependent genese of knowledge and genius indiviuals
-- 
+# This is a simulation software for experimenting with societies.
+
+## Key features include:
+- Different sizes of societies
+- Modifiable numbers of subsystems
+- Main focus on indirect reactions
+- Random and dependent generation of knowledge and genius individuals
