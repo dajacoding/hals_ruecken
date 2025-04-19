@@ -1,0 +1,1 @@
+print("collect_economies")
